@@ -1,0 +1,12 @@
+C:\Users\user\AppData\Local\Temporary Projects\Köstebek Adam\bin\Debug\Köstebek Adam.exe
+C:\Users\user\AppData\Local\Temporary Projects\Köstebek Adam\bin\Debug\Köstebek Adam.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Köstebek Adam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Köstebek Adam\obj\Debug\Köstebek Adam.exe
+C:\Users\user\AppData\Local\Temporary Projects\Köstebek Adam\obj\Debug\Köstebek Adam.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Köstebek Adam\Köstebek Adam\obj\Debug\Köstebek Adam.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Köstebek Adam\Köstebek Adam\obj\Debug\Köstebek Adam.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\KONSOL SERİSİ\Köstebek Adam\Köstebek Adam\obj\Debug\Köstebek Adam.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\KONSOL SERİSİ\Köstebek Adam\Köstebek Adam\obj\Debug\Köstebek Adam.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\KONSOL SERİSİ\Köstebek Adam\Köstebek Adam\bin\Debug\Köstebek Adam.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\KONSOL SERİSİ\Köstebek Adam\Köstebek Adam\bin\Debug\Köstebek Adam.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\KONSOL SERİSİ\Köstebek Adam\Köstebek Adam\obj\Debug\ResolveAssemblyReference.cache
